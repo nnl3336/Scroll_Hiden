@@ -8,7 +8,7 @@
 import SwiftUI
 import CoreData
 
-struct ContentView: View {
+struct ContentView : View {
     @State private var isButtonVisible = true
     
     var body: some View {
